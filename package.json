@@ -1,0 +1,15 @@
+{
+    "name": "praveenax.night-life",
+    "title": "Night Life",
+    "description": "This theme is for those who care way too much about Code and less about the Time!",
+    "homepage": "https://github.com/praveenax/night-life",
+    "version": "1.0.0",
+    "author": "praveenax <xav.axp@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
